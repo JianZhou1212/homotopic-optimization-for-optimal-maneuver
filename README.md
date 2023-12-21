@@ -1,2 +1,2 @@
 # homotopic-optimization-for-optimal-maneuver
-code for Homotopic Optimization for Autonomous Vehicle Maneuvering
+Code would be published if paper is accepted.
